@@ -2,12 +2,12 @@
 
 Senior **Android Software Engineer** with 10+ years of commercial experience building **production-grade, scalable mobile applications**. Specialized in **Kotlin**, **Android Jetpack**, and **modern Android architecture** for high-load and long-lived products.
 
-- 📱 Android apps with **3,000+ daily active users**
-- 📺 TV & embedded Android software used by **1.5M+ users**
-- 🚚 Logistics, fleet management, OTA updates, real-time data
+- 📺 TV & embedded Android software used by **1.5M+ users**, OTA updates
+- 🚚 Logistics app with **3,000+ daily active truck drivers**, fleet management,  real-time data
 - 🏗 Strong focus on **stability, scalability, and maintainability**
 
 ---
+
 ## 🌐 Connect with me
 
 [![website](./img/globe-light.svg)](https://antonkogan.de#gh-light-mode-only)
@@ -16,8 +16,9 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anton-kogan-developer/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anton-kogan-developer/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![email](./img/mail-light.svg)](mailto:contact@antonkogan.de#gh-light-mode-only)
-[![email](./img/mail-dark.svg)](mailto:contact@antonkogan.de#gh-dark-mode-only)
+[![email](./img/mail-light.svg)](mailto:contact@antonkogan.de)
+[![email](./img/mail-dark.svg)](mailto:contact@antonkogan.de)
+
 ---
 
 ## 🎯 Core Android Expertise
@@ -74,7 +75,11 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 
 ### Quality & Monitoring
 - Firebase Crashlytics
+- Profiling
 - Unit testing
+- Integration testing
+- UI testing
+- Screenshot testing
 - Mocking
 
 ### Tooling
@@ -88,72 +93,25 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 
 ## 💼 Professional Experience
 
-### **Senior Software Developer / Senior Android Engineer**
-**Abona Deutschland GmbH** — Germany / Ukraine  
+**Senior Software Developer**  
+[Abona Deutschland GmbH](https://www.abona-erp.com/en/about-us)  
 *07.2020 – 06.2025*
 
-**Android / Backend / Web**
-
-- Lead Android developer for **DriverApp**, a native Android logistics app with **3,000+ DAU**
-- Implemented modern Android architecture using **Kotlin, Jetpack Compose, Kotlin Flows**
-- Integrated **REST APIs, real-time sockets, SignalR, RabbitMQ**
-- Worked on **CI/CD pipelines (Azure, YAML)** for mobile releases
-- Contributed to backend/server-side systems (**AbonaERP**)
-- Developed **DriverWeb** (Blazor-based fleet management system)
-- Built **document scanning solution** using Dynamsoft + JS Interop
-
-**Tech stack:**  
-Kotlin, Java, Jetpack Compose, Kotlin Flows, REST, Sockets, RabbitMQ, SignalR, CI/CD (Azure), C#, Blazor
-
----
-
-### **Middle Android Developer**
-**KIVI TV** — Kyiv, Ukraine  
+**Middle Android Developer**  
+[KIVI TV (KIVI Smart)](https://kivismart.com/)  
 *10.2017 – 06.2020*
 
-- Maintained Android **OTA Update App**
-- Developed Android apps for **Smart TVs**
-- Worked with **AOSP**, device-level Android components
-- Built remote configuration & recommendation systems
-- Used **RxJava, Dagger, Jenkins**
-- Supported iOS team with integration documentation
-
-**Tech stack:**  
-Kotlin, Android Jetpack, AOSP, RxJava, Dagger, Jenkins, Bash
-
----
-
-### **Android Developer (Freelance)**
-**MySwit** — Odessa  
+**Android Developer (Freelance)**  
+MySwit 
 *11.2016 – 10.2017*
 
-- Developed Android apps for customers & shop assistants
-- Implemented **Google Maps–based promotions**
-- Offline-first architecture using **Realm DB**
-- Push notifications via **FCM**
-
----
-
-### **Android Developer**
-**Ozon Ltd.** — Remote  
+**Android Developer**  
+[Ozon Travel](https://www.ozon.ru/travel)  
 *11.2015 – 11.2016*
 
-- Flight fare search & booking features
-- Real-time flight change notifications (FCM)
-- Performance-optimized UI & animations
-
-**Tech stack:**  
-Java, SQLite, FCM, MobileML, XML, Fabric.io
-
----
-
-### **Android Developer Intern**
-**OneTrack LLC** — Moscow  
+**Android Developer Intern**  
+OneTrack LLC 
 *04.2015 – 11.2015*
-
-- Calorie counter, sleep tracker, food diary apps
-- BLE wearable integration
-- Data exchange using **Protocol Buffers**
 
 ---
 

@@ -16,7 +16,6 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anton-kogan-developer/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anton-kogan-developer/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![email](./img/mail-light.svg)](mailto:contact@antonkogan.de)
 [![email](./img/mail-dark.svg)](mailto:contact@antonkogan.de)
 
 ---
@@ -92,6 +91,11 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 ---
 
 ## 💼 Professional Experience
+
+** Current Focus
+Building my own **event-driven mobile application**, focusing on rapid iteration and real-world use cases.  
+In parallel, I’m upgrading my **Kotlin Multiplatform (KMP)** skills through a paid course by **Philipp Lackner**, applying the concepts directly in practice:  
+https://www.youtube.com/@PhilippLackner
 
 **Senior Software Developer**  
 [Abona Deutschland GmbH](https://www.abona-erp.com/en/about-us)  

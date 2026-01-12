@@ -92,8 +92,7 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 
 ## 💼 Professional Experience
 
-**Current Focus**
-Building my own **event-driven mobile application**, focusing on rapid iteration and real-world use cases.  
+**Current Focus:** Building my own **event-driven mobile application**, focusing on rapid iteration and real-world use cases.  
 In parallel, I’m upgrading my **Kotlin Multiplatform (KMP)** skills through a paid course by **Philipp Lackner**, applying the concepts directly in practice:  
 https://www.youtube.com/@PhilippLackner
 

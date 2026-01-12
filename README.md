@@ -8,6 +8,17 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 - 🏗 Strong focus on **stability, scalability, and maintainability**
 
 ---
+## 🌐 Connect with me
+
+[![website](./img/globe-light.svg)](https://antonkogan.de#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://antonkogan.de#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anton-kogan-developer/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anton-kogan-developer/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![email](./img/mail-light.svg)](mailto:contact@antonkogan.de#gh-light-mode-only)
+[![email](./img/mail-dark.svg)](mailto:contact@antonkogan.de#gh-dark-mode-only)
+---
 
 ## 🎯 Core Android Expertise
 

@@ -1,9 +1,9 @@
 # Anton Kogan — Senior Android Developer (Kotlin / Jetpack)
 
 Senior **Android Software Engineer** with 10+ years of commercial experience building **production-grade, scalable mobile applications**. Specialized in **Kotlin**, **Android Jetpack**, and **modern Android architecture** for high-load and long-lived products.
-
-- 📺 TV & embedded Android software used by **1.5M+ users**, OTA updates
+- 📺 TV & embedded Android software used by **5M+ users**, OTA updates
 - 🚚 Logistics app with **3,000+ daily active truck drivers**, fleet management,  real-time data
+- 💬 Dating app featuring real-time chat and calls, virtual gifts, in-app currency, feed, and stories
 - 🏗 Strong focus on **stability, scalability, and maintainability**
 
 ---
@@ -25,7 +25,7 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 - **Android Development (10+ years)**
 - **Kotlin / Java**
 - **Jetpack Compose & Android Jetpack**
-- **Clean Architecture / MVVM / MVI**
+- **Clean Architecture MVP / MVVM / MVI**
 - **Asynchronous & concurrent programming**
 - **CI/CD for mobile applications**
 
@@ -40,6 +40,10 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 - Jetpack Compose
 - Android Jetpack
 - AOSP
+- ExoPlayer
+- LiveKit
+- CameraView
+- Lottie
 
 ### Concurrency & Background Work
 - Kotlin Coroutines
@@ -49,6 +53,9 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 
 ### Data & Networking
 - REST APIs
+- GraphQL
+- Apollo
+- Retrofit
 - JSON
 - Google Protocol Buffers
 - Firebase Cloud Messaging (FCM)
@@ -71,22 +78,35 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 - Azure DevOps
 - Jenkins
 - YAML pipelines
+- Bash scripting
 
 ### Quality & Monitoring
+- Firebase Analytics
 - Firebase Crashlytics
+- Sentry
 - Profiling
 - Unit testing
 - Integration testing
 - UI testing
 - Screenshot testing
+- Robolectric
+- Roborazzi
 - Mocking
 
 ### Tooling
 - Git, BitBucket, SourceTree
 - ADB
-- Bash scripting
 - Figma, Zeplin, Sketch
 - Jira / Azure Boards (Agile/Scrum)
+- C#
+- JavaScript
+- Blazor
+- Bootstrap
+- XML
+- Canvas API
+- MobileML
+- Google Maps API
+- FatSecret API
 
 ---
 
@@ -96,8 +116,13 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 In parallel, I’m upgrading my **Kotlin Multiplatform (KMP)** skills through a paid course by **Philipp Lackner**, applying the concepts directly in practice:  
 https://www.youtube.com/@PhilippLackner
 
-**Senior Software Developer**  
-[Abona Deutschland GmbH](https://www.abona-erp.com/en/about-us)  
+
+**Lead Android Developer**  
+[Korpu](https://korpu.app/)  
+*10.2025 – 06.2026*
+
+**Lead Android Developer**  
+[Abona Deutschland GmbH](https://www.abona-erp.com)  
 *07.2020 – 06.2025*
 
 **Middle Android Developer**  
@@ -120,9 +145,9 @@ OneTrack LLC
 
 ## 🎓 Education
 
-- **BSc Informatics & Computer Science** — Kyiv Polytechnic Institute
-- **Android Mobile Development** — STEP IT Academy
-- **BSc International Economics**
+- **BSc Informatics & Computer Science** — Kyiv Polytechnic Institute 2022
+- **Android Mobile Development** — STEP IT Academy 2014
+- **BSc International Economics** – Donetsk National University 2012
 
 ---
 
@@ -130,7 +155,6 @@ OneTrack LLC
 
 - English — B2  
 - German — A2  
-- Ukrainian — Native  
 - Russian — Native  
 
 ---
@@ -138,4 +162,3 @@ OneTrack LLC
 ## 📌 Positioning Statement (For Recruiters)
 
 Senior Android Developer with strong experience in **Kotlin, Jetpack Compose, and large-scale production systems**. Comfortable working on **complex legacy codebases**, modernizing architecture, and delivering **stable, long-term mobile solutions**.
-

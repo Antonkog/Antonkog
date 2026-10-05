@@ -1,9 +1,11 @@
-# Anton Kogan — Senior Android Developer (Kotlin / Jetpack)
+# Anton Kogan — Senior/Lead Android Developer 
 
-Senior **Android Software Engineer** with 10+ years of commercial experience building **production-grade, scalable mobile applications**. Specialized in **Kotlin**, **Android Jetpack**, and **modern Android architecture** for high-load and long-lived products.
-- 📺 TV & embedded Android software used by **2M+ users**, OTA updates
-- 🚚 Logistics app with **3,000+ daily active truck drivers**, fleet management,  real-time data
+Senior **Android Software Engineer** with 11+ years of commercial experience building **production-grade, scalable mobile applications**. Specialized in **Kotlin**, **Android Jetpack**, and **modern Android architecture** for high-load and long-lived products.
 - 💬 Dating app featuring real-time chat and calls, virtual gifts, in-app currency, feed, and stories
+- 🚚 Logistics app with **3,000+ daily active truck drivers**, fleet management,  real-time data
+- 📺 TV & embedded Android software used by **2M+ users**, OTA updates
+- ✈️ Airline booking app featuring live flight search, checkout, and interactive dynamic seat maps via MobileML and Canvas API
+- 🏃 OneTrak fitness tracker app managing BLE-connected syncing for activity, sleep, and health diaries
 - 🏗 Strong focus on **stability, scalability, and maintainability**
 
 ---
@@ -22,7 +24,7 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 
 ## 🎯 Core Android Expertise
 
-- **Android Development (10+ years)**
+- **Android Development (11+ years)**
 - **Kotlin / Java**
 - **Jetpack Compose & Android Jetpack**
 - **Clean Architecture MVP / MVVM / MVI**
@@ -31,82 +33,13 @@ Senior **Android Software Engineer** with 10+ years of commercial experience bui
 
 ---
 
-## 🧠 Technical Skills (ATS Optimized)
 
-### Android & Mobile
-- Android SDK
-- Kotlin, Java
-- KMP, CMP
-- Jetpack Compose
-- Android Jetpack
-- AOSP
-- ExoPlayer
-- LiveKit
-- CameraView
-- Lottie
+## 🧠 Technical Skills
 
-### Concurrency & Background Work
-- Kotlin Coroutines
-- Kotlin Flows
-- RxJava
-- AndroidX Workers
-
-### Data & Networking
-- REST APIs
-- GraphQL
-- Apollo
-- Retrofit
-- JSON
-- Google Protocol Buffers
-- Firebase Cloud Messaging (FCM)
-- RabbitMQ
-- SignalR
-- Sockets
-- BLE
-
-### Databases
-- Room
-- SQLite
-- Realm
-
-### Dependency Injection
-- Dagger
-- HILT
-- Koin
-
-### CI/CD & DevOps
-- Azure DevOps
-- Jenkins
-- YAML pipelines
-- Bash scripting
-
-### Quality & Monitoring
-- Firebase Analytics
-- Firebase Crashlytics
-- Sentry
-- Profiling
-- Unit testing
-- Integration testing
-- UI testing
-- Screenshot testing
-- Robolectric
-- Roborazzi
-- Mocking
-
-### Tooling
-- Git, BitBucket, SourceTree
-- ADB
-- Figma, Zeplin, Sketch
-- Jira / Azure Boards (Agile/Scrum)
-- C#
-- JavaScript
-- Blazor
-- Bootstrap
-- XML
-- Canvas API
-- MobileML
-- Google Maps API
-- FatSecret API
+| | | |
+| :--- | :--- | :--- |
+| **Android & Mobile**<br>• Android SDK<br>• Kotlin, Java<br>• KMP, CMP<br>• Jetpack Compose<br>• Android Jetpack<br>• AOSP<br>• ExoPlayer<br>• LiveKit<br>• CameraView<br>• Lottie | **Concurrency & Background Work**<br>• Kotlin Coroutines<br>• Kotlin Flows<br>• RxJava<br>• AndroidX Workers<br><br>**Dependency Injection**<br>• Dagger<br>• HILT<br>• Koin<br><br>**Databases**<br>• Room<br>• SQLite<br>• Realm | **Quality & Monitoring**<br>• Firebase Analytics<br>• Firebase Crashlytics<br>• Sentry<br>• Profiling<br>• Unit, Integration, UI testing<br>• Screenshot testing<br>• Robolectric, Roborazzi, Mocking<br><br>**CI/CD & DevOps**<br>• Azure DevOps, Jenkins<br>• YAML pipelines, Bash |
+| **Data & Networking**<br>• REST APIs, GraphQL, Apollo<br>• Retrofit, JSON, Protobuf<br>• FCM, RabbitMQ, SignalR<br>• Sockets, BLE | | **Tooling & Extra**<br>• Git, BitBucket, SourceTree, ADB<br>• Figma, Zeplin, Sketch<br>• Jira, Azure Boards (Agile)<br>• C#, JavaScript, Blazor, Bootstrap<br>• XML, Canvas API, MobileML<br>• Google Maps & FatSecret APIs |
 
 ---
 
@@ -159,6 +92,6 @@ OneTrack LLC
 
 ---
 
-## 📌 Positioning Statement (For Recruiters)
+## 📌 Positioning Statement
 
 Senior Android Developer with strong experience in **Kotlin, Jetpack Compose, and large-scale production systems**. Comfortable working on **complex legacy codebases**, modernizing architecture, and delivering **stable, long-term mobile solutions**.

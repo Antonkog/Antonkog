@@ -35,73 +35,26 @@ Senior **Android Software Engineer** with 11+ years of commercial experience bui
 
 ## 🧠 Technical Skills
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr valign="top">
-    <!-- COLUMN 1 -->
-    <td width="31%" align="left">
-      <strong>Android & Mobile</strong><br>
-      • Android SDK<br>
-      • Kotlin, Java<br>
-      • KMP, CMP<br>
-      • Jetpack Compose<br>
-      • Android Jetpack<br>
-      • AOSP<br>
-      • ExoPlayer<br>
-      • LiveKit<br>
-      • CameraView<br>
-      • Lottie
-      <br><br>
-      <strong>Data & Networking</strong><br>
-      • REST APIs, GraphQL, Apollo<br>
-      • Retrofit, JSON, Protobuf<br>
-      • FCM, RabbitMQ, SignalR<br>
-      • Sockets, BLE
-    </td>
-    <!-- GAP COLUMN 1 -->
-    <td width="3%"></td>
-    <!-- COLUMN 2 -->
-    <td width="31%" align="left">
-      <strong>Concurrency & Background</strong><br>
-      • Kotlin Coroutines<br>
-      • Kotlin Flows<br>
-      • RxJava<br>
-      • AndroidX Workers
-      <br><br>
-      <strong>Dependency Injection</strong><br>
-      • Dagger<br>
-      • HILT<br>
-      • Koin
-      <br><br>
-      <strong>Databases</strong><br>
-      • Room<br>
-      • SQLite<br>
-      • Realm
-    </td>
-    <!-- GAP COLUMN 2 -->
-    <td width="3%"></td>
-    <!-- COLUMN 3 -->
-    <td width="32%" align="left">
-      <strong>Quality & Monitoring</strong><br>
-      • Firebase Analytics & Crashlytics<br>
-      • Sentry, Profiling<br>
-      • Unit, Integration, UI testing<br>
-      • Screenshot testing<br>
-      • Robolectric, Roborazzi, Mocking
-      <br><br>
-      <strong>CI/CD & DevOps</strong><br>
-      • Azure DevOps, Jenkins<br>
-      • YAML pipelines, Bash
-      <br><br>
-      <strong>Tooling & Extra</strong><br>
-      • Git, BitBucket, SourceTree, ADB<br>
-      • Figma, Zeplin, Sketch<br>
-      • Jira, Azure Boards (Agile)<br>
-      • C#, JavaScript, Blazor, Bootstrap<br>
-      • XML, Canvas API, MobileML<br>
-      • Google Maps & FatSecret APIs
-    </td>
-  </tr>
-</table>
+```text
+Android & Mobile              Concurrency & Background Work   Quality & Monitoring
+• Android SDK                 • Kotlin Coroutines             • Firebase Analytics & Crashlytics
+• Kotlin, Java                • Kotlin Flows                  • Sentry, Profiling
+• KMP, CMP                    • RxJava                        • Unit, Integration, UI testing
+• Jetpack Compose             • AndroidX Workers              • Screenshot testing
+• Android Jetpack                                             • Robolectric, Roborazzi, Mocking
+• AOSP                        Dependency Injection
+• ExoPlayer                   • Dagger                        CI/CD & DevOps
+• LiveKit                     • HILT                          • Azure DevOps, Jenkins
+• CameraView                  • Koin                          • YAML pipelines, Bash
+• Lottie
+                              Databases                       Tooling & Extra
+Data & Networking             • Room                          • Git, BitBucket, SourceTree, ADB
+• REST APIs, GraphQL, Apollo  • SQLite                        • Figma, Zeplin, Sketch
+• Retrofit, JSON, Protobuf    • Realm                         • Jira, Azure Boards (Agile)
+• FCM, RabbitMQ, SignalR                                      • C#, JavaScript, Blazor, Bootstrap
+• Sockets, BLE                                                • XML, Canvas API, MobileML
+                                                              • Google Maps & FatSecret APIs
+```
 
 ---
 

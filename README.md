@@ -1,7 +1,7 @@
 # Anton Kogan — Senior Android Developer (Kotlin / Jetpack)
 
 Senior **Android Software Engineer** with 10+ years of commercial experience building **production-grade, scalable mobile applications**. Specialized in **Kotlin**, **Android Jetpack**, and **modern Android architecture** for high-load and long-lived products.
-- 📺 TV & embedded Android software used by **5M+ users**, OTA updates
+- 📺 TV & embedded Android software used by **2M+ users**, OTA updates
 - 🚚 Logistics app with **3,000+ daily active truck drivers**, fleet management,  real-time data
 - 💬 Dating app featuring real-time chat and calls, virtual gifts, in-app currency, feed, and stories
 - 🏗 Strong focus on **stability, scalability, and maintainability**
@@ -130,7 +130,7 @@ https://www.youtube.com/@PhilippLackner
 *10.2017 – 06.2020*
 
 **Android Developer (Freelance)**  
-MySwit 
+Upwork 
 *11.2016 – 10.2017*
 
 **Android Developer**  
@@ -153,7 +153,7 @@ OneTrack LLC
 
 ## 🌍 Languages
 
-- English — B2  
+- English — C1  
 - German — A2  
 - Russian — Native  
 
